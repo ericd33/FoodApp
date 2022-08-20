@@ -1,0 +1,16 @@
+body{
+    width:100vw;
+    height:100vh;
+    color:yellow;
+    background-image: url("../img/bg.jpg");
+    margin:0;
+    padding:0;
+}
+
+*{
+    padding:0;
+    margin:0;
+}
+.foodlist{
+    flex-direction: column;
+}
